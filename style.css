@@ -1,0 +1,47 @@
+.top{
+        background: url('logo.png');
+        margin: auto;
+        border-radius: 40px;
+        height: 500px;
+        max-width: 1100px;
+        
+}
+
+.bord1{
+        border: 4px dotted;
+        border-color: mediumpurple;
+        border-radius: 30px;
+        padding: 10px;
+        height: 250px;
+} 
+
+.chesstext{
+        margin: 30px;
+        width: 600px;
+}
+
+.chesstextR{
+        margin: 30px;
+        width: 600px;
+        text-align: right;
+}
+
+.borderchess{
+        border: solid 3px;
+        border-radius: 30px;
+        margin: 20px;
+}
+
+.anim-icon{
+        width: 100px;
+}
+.anim-icon:hover{
+        width: 120px;
+}
+body{
+        background-color: #333;
+        color: #ededed;
+}
+h2{
+        margin: 20px;
+}
